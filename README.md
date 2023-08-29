@@ -1,2 +1,2 @@
 # test
-This is a testing file for learning purpose.
+This is a developing file for learning purpose.
